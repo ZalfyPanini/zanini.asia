@@ -1,0 +1,14 @@
+#+title: Zanini Asia Portfolio Website
+
+* Description
+
+* Tasklist
+
+** Deployment
+
+** Writing
+*** DONE List out the projects that I want to showcase on the page
+
+*** TODO Steelcase the dragon run
+*** TODO Battleground PolyU
+*** TODO Fill out WILD! entry
