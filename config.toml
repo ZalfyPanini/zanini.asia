@@ -90,8 +90,3 @@ work = ":filename/"
   name = "archive"
   url = "/tags/archive/"
   weight = 4
-
-  [[menu.main]]
-  name = "about"
-  url = "/about/"
-  weight = 5
