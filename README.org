@@ -1,14 +1,19 @@
 #+title: Zanini Asia Portfolio Website
-
 * Description
+This is the repo for portfolio website, there is a blog website that has to go up at some point, which I will be using gitlab for. 
 
 * Tasklist
 
-** Deployment
-
+** Creation
+*** [ ] Create a short reel for work, can I use that as the backdrop for the website entry ? - will need to add a filter
+*** [ ] Change the PNG lines, make them into sort of the japanese line style pottery ?
+*** [ ] Pride / animated sunglasses logo 
+**** [ ] Export 6 versions of the sunglasses with the different lense options
+**** [ ] Find a way of animating it that makes sense ? - swipe diag, fade in out ?
 ** Writing
-*** DONE List out the projects that I want to showcase on the page
+*** [ ] Fill out entries for the work achievements
+*** [ ] Fill out some of the photos and add a link to instagram
+**** Research how photo assignments work and see if I can put one example together ? See if I can get DJ to help me put it together / shoot it? 
 
-*** TODO Steelcase the dragon run
-*** TODO Battleground PolyU
-*** TODO Fill out WILD! entry
+** Appearance
+*** [ ] Find a way to add titles to the images descriptor
