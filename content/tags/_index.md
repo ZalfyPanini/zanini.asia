@@ -1,4 +1,4 @@
-+++
-subtitle = 'eternity'
-title = 'tags'
-+++
+---
+title: tags
+subtitle: eternity
+---
