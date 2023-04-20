@@ -1,4 +1,4 @@
-baseURL = https://zaniniasia.netlify.app
+baseURL = "https://zaniniasia.netlify.app"
 title = "Zanini"
 defaultContentLanguage = "en"
 theme = "eternity"
@@ -74,24 +74,24 @@ work = ":filename/"
   [[menu.main]]
   name = "work"
   url = "/work/"
-  weight = 1.0
+  weight = 1
 
   [[menu.main]]
   name = "photos"
   url = "/photos/"
-  weight = 2.0
+  weight = 2
 
   [[menu.main]]
   name = "stock"
   url = "/stock/"
-  weight = 3.0
+  weight = 3
 
   [[menu.main]]
   name = "archive"
   url = "/tags/archive/"
-  weight = 4.0
+  weight = 4
 
   [[menu.main]]
   name = "about"
   url = "/about/"
-  weight = 5.0
+  weight = 5

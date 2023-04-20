@@ -1,4 +1,0 @@
-+++
-title = 'photos'
-url = 'photos'
-+++
