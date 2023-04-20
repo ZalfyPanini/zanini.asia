@@ -1,12 +1,11 @@
----
-images:
-- /images/about.png
-title: about
-url: about
-hideTitle: true
-hideExif: true
-hideDate: true
----
++++
+hideDate = true
+hideExif = true
+hideTitle = true
+images = ['/images/about.png']
+title = 'about'
+url = 'about'
++++
 
 Alfred Zanini is a documentary filmmaker working from **[China Daily Hong Kong](https://www.chinadailyhk.com/video/index.html)**
 

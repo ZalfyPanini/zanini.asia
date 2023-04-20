@@ -1,0 +1,97 @@
+baseURL = https://zaniniasia.netlify.app
+title = "Zanini"
+defaultContentLanguage = "en"
+theme = "eternity"
+googleAnalytics = ""
+
+[params]
+image = "/images/banner.png"
+logo = "logo.svg"
+subtitle = "Alfred Zanini is a Hong Kong-based filmmaker."
+copyright = "All rights reserved."
+author = "Alfred Zanini"
+dontShowSource = false
+homepage = "/work"
+specialPages = [
+  "work",
+  "archive",
+  "stock",
+  "photos"
+]
+bypassWelcomePage = false
+disableWelcomePageBackground = false
+plausible = ""
+disableRadius = true
+moveIt = false
+disableAlwaysResize = false
+
+  [params.portfolio]
+
+    [params.portfolio.columns]
+
+      [params.portfolio.columns.desktop]
+      default = 3.0
+      archive = 6.0
+
+      [params.portfolio.columns.mobile]
+      default = 2.0
+      archive = 3.0
+
+  [[params.socials]]
+  icon = "far fa-envelope fa-lg"
+  url = "mailto:alfred@zanini.asia"
+  landing = true
+
+  [[params.socials]]
+  icon = "fab fa-gitlab fa-lg"
+  url = "https://gitlab.com/zalfie"
+  landing = true
+
+  [[params.socials]]
+  icon = "fab fa-instagram fa-lg"
+  url = "https://www.instagram.com/zalfie_photo/"
+
+  [[params.socials]]
+  icon = "fab fa-linkedin-in fa-lg"
+  url = "https://www.linkedin.com/in/alfred-z-981465153/"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+
+    [markup.goldmark.renderer]
+    unsafe = true
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+work = ":filename/"
+
+[menu]
+
+  [[menu.main]]
+  name = "work"
+  url = "/work/"
+  weight = 1.0
+
+  [[menu.main]]
+  name = "photos"
+  url = "/photos/"
+  weight = 2.0
+
+  [[menu.main]]
+  name = "stock"
+  url = "/stock/"
+  weight = 3.0
+
+  [[menu.main]]
+  name = "archive"
+  url = "/tags/archive/"
+  weight = 4.0
+
+  [[menu.main]]
+  name = "about"
+  url = "/about/"
+  weight = 5.0

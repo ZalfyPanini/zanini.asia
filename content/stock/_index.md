@@ -1,4 +1,4 @@
----
-title: stock
-url: stock 
----
++++
+title = 'stock'
+url = 'stock'
++++
