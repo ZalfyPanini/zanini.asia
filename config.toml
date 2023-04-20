@@ -16,7 +16,8 @@ specialPages = [
   "work",
   "archive",
   "stock",
-  "photos"
+  "photos",
+  "contact"
 ]
 bypassWelcomePage = false
 disableWelcomePageBackground = false
@@ -43,8 +44,8 @@ disableAlwaysResize = false
   landing = true
 
   [[params.socials]]
-  icon = "fab fa-gitlab fa-lg"
-  url = "https://gitlab.com/zalfie"
+  icon = "fa-sharp fa-solid fa-code"
+  url = "https://www.zanini.tech"
   landing = true
 
   [[params.socials]]
@@ -90,3 +91,8 @@ work = ":filename/"
   name = "archive"
   url = "/tags/archive/"
   weight = 4
+
+  [[menu.main]]
+  name = "contact"
+  url = "/tags/contact/"
+  weight = 5
