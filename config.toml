@@ -15,7 +15,6 @@ homepage = "/work"
 specialPages = [
   "work",
   "archive",
-  "stock",
   "photos",
   "contact"
 ]
@@ -86,10 +85,7 @@ work = ":filename/"
   url = "/photos/"
   weight = 2
 
-  [[menu.main]]
-  name = "stock"
-  url = "/stock/"
-  weight = 3
+
 
   [[menu.main]]
   name = "archive"
