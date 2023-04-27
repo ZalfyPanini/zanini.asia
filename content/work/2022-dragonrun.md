@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 00
 images:
  - /project-thumbnails/dragonrun.webp
 title: Steelcase The Dragon Run
