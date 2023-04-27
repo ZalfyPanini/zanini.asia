@@ -15,8 +15,8 @@ homepage = "/work"
 specialPages = [
   "work",
   "archive",
-  "photos",
-  "contact"
+  # "contact",
+  "photos"
 ]
 bypassWelcomePage = false
 disableWelcomePageBackground = false
@@ -50,7 +50,7 @@ disableAlwaysResize = false
   [[params.socials]]
   icon = "fab fa-instagram fa-lg"
   url = "https://www.instagram.com/zalfie_photo/"
-  
+
   [[params.socials]]
   icon = "fab fa-mastodon fa-lg"
   url = "https://www.mastodon.social/@zalfie"
@@ -85,8 +85,6 @@ work = ":filename/"
   url = "/photos/"
   weight = 2
 
-
-
   [[menu.main]]
   name = "archive"
   url = "/tags/archive/"
@@ -94,5 +92,5 @@ work = ":filename/"
 
   [[menu.main]]
   name = "contact"
-  url = "/tags/contact/"
+  url = "/contact/"
   weight = 5
