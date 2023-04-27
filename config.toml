@@ -16,12 +16,17 @@ specialPages = [
   "work",
   "archive",
 <<<<<<< HEAD
+<<<<<<< HEAD
   # "contact",
   "photos"
 =======
   "photos",
   "contact"
 >>>>>>> 1422582 (Update config.toml)
+=======
+  # "contact",
+  "photos"
+>>>>>>> origin/main
 ]
 bypassWelcomePage = false
 disableWelcomePageBackground = false
@@ -91,10 +96,13 @@ work = ":filename/"
   weight = 2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 
 >>>>>>> 1422582 (Update config.toml)
+=======
+>>>>>>> origin/main
   [[menu.main]]
   name = "archive"
   url = "/tags/archive/"
